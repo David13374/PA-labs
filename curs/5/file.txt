@@ -1,0 +1,5 @@
+1 2 punctul 1
+2 3 punctul 2
+1 2 punctul 1 nou
+5 1 alt punct
+6 3 ultimul punct
